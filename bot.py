@@ -31,10 +31,10 @@ HELP_TEXT = """
 • Use /id in Group or Channel to get Unique Telegram ID
 """
 ABOUT_TEXT = """
-- **Bot :** `Info Bot`
-- **Creator :** [Vivek](https://telegram.me/Vivek_KERALA)
+- **Bot :** [Iᴅ Fᴏᴜɴᴅᴇʀ Bᴏᴛ](http://t.me/crazy_id_founder_bot)
+- **Creator :** [Ravidu Yasas 🧑‍💻](https://t.me/darkz_hacker_devil)
 - **Credits :** `Everyone in this journey`
-- **Source :** [Click here](https://github.com/vivek-tp/Info-Bot)
+- **Source :** 🔐
 - **Language :** [Python3](https://python.org)
 - **Library :** [Pyrogram v1.2.0](https://pyrogram.org)
 - **Server :** [Heroku](https://heroku.com)
@@ -42,14 +42,14 @@ ABOUT_TEXT = """
 
 BOT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton(text="SOURCE", url=f"https://github.com/vivek-tp/Info-Bot")
+        InlineKeyboardButton(text="Update Channel 🤖", url=f"https://t.me/media_bot_updates")
         ]]
     )
 
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton(text="SOURCE", url=f"https://github.com/vivek-tp/Info-Bot")
+        InlineKeyboardButton(text="Update Channel 🤖", url=f"https://t.me/media_bot_updates")
         ]]
     )
                 
